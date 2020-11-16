@@ -1,8 +1,8 @@
 # Envío de Eventos
 
-{% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
+{% api-method method="post" host="https://monitor-api.fluenti.net" path="/api/event" %}
 {% api-method-summary %}
-Get Cakes
+Event
 {% endapi-method-summary %}
 
 {% api-method-description %}
@@ -11,27 +11,21 @@ This endpoint allows you to get free cakes.
 
 {% api-method-spec %}
 {% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="id" type="string" %}
-ID of the cake to get, for free of course.
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-
 {% api-method-headers %}
-{% api-method-parameter name="Authentication" type="string" required=true %}
-Authentication token to track down who is emptying our stocks.
+{% api-method-parameter name="Authorization" type="string" required=true %}
+Token obtenido en la etapa de autenticación con el formato: "Bearer &lt;token&gt;".
 {% endapi-method-parameter %}
 {% endapi-method-headers %}
 
-{% api-method-query-parameters %}
-{% api-method-parameter name="recipe" type="string" %}
-The API will do its best to find a cake matching the provided recipe.
+{% api-method-body-parameters %}
+{% api-method-parameter name="event" type="string" required=true %}
+Evento completo como un texto, si se envía un JSON se debe incluir como un string realizando el escapeado de caracteres reservados, como ser comillas, etc.
 {% endapi-method-parameter %}
 
-{% api-method-parameter name="gluten" type="boolean" %}
-Whether the cake should be gluten-free or not.
+{% api-method-parameter name="eventDefinitionId" type="integer" required=true %}
+Id que define la configuración del evento que se está enviando.
 {% endapi-method-parameter %}
-{% endapi-method-query-parameters %}
+{% endapi-method-body-parameters %}
 {% endapi-method-request %}
 
 {% api-method-response %}

@@ -13,6 +13,10 @@
 
 ## API
 
+* [Autenticación](api/autenticacion.md)
 * [Envío de Eventos](api/envio-de-eventos.md)
-* [Preguntas Frecuentes](api/preguntas-frecuentes.md)
+
+---
+
+* [Preguntas Frecuentes](preguntas-frecuentes.md)
 
