@@ -5,6 +5,7 @@
 ## Documentación
 
 * [Ingreso y Registración](documentacion/ingreso-y-registracion.md)
+* [Dashboard](documentacion/dashboard.md)
 * [Definición de Eventos](documentacion/definicion-de-eventos.md)
 * [Métricas](documentacion/metricas.md)
 * [Alarmas](documentacion/alarmas.md)
