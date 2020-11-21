@@ -11,6 +11,7 @@
 * [Alarmas](documentacion/alarmas.md)
 * [Notificadores](documentacion/notificadores.md)
 * [Eventos](documentacion/eventos.md)
+* [Actualización de Plan](documentacion/actualizacion-de-plan.md)
 
 ## API
 

@@ -1,12 +1,12 @@
 # Preguntas Frecuentes
 
-## Can I become who I want to be?
+## ¿Puedo probar la plataforma de forma gratuita?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+Si, al ingresar por primera vez y sin realizar ningún pago se habilita el Plan Free con una capacidad de 10.000 eventos por mes y 100 mb de datos.
 
-## Have you had a chance to answer the previous question?
+## ¿Cómo puedo actualizar mi plan a uno de mayor capacidad?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Desde la pantalla de perfil, se accede al botón de Actualizar plan. Allí se permite seleccionar el plan necesario y realizar el pago mediante diferentes medios de pago de forma segura.
 
 
 

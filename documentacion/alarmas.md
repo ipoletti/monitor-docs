@@ -4,7 +4,7 @@ En esta sección se definen las alarmas que serán procesados por la plataforma.
 
 Las alarmas permiten trabajar sobre las métricas definidas anteriormente, estableciendo umbrales para los cuales la alarma será activada y disparada la notificación correspondiente.
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 Se accede por el menú superior. Se listan las alarmas ya existentes.‌
 

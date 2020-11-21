@@ -4,7 +4,7 @@ En esta sección se definen los notificadores que serán procesados por la plata
 
 Los notificadores definidos podrán ser asignados a las Alarmas para enviar alertas ante la activación de las mismas.
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 Se accede por el menú superior. Se listan las alarmas ya existentes.‌
 

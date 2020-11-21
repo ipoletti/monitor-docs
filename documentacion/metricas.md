@@ -6,7 +6,7 @@ Las métricas son aquellos datos expresados numéricamente que nos sirven para *
 
 ‌
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 Se accede por el menú superior. Se listan las métricas ya existentes.‌
 
