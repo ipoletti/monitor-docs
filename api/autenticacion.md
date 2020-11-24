@@ -13,7 +13,7 @@ This endpoint allows you to get free cakes.
 {% api-method-request %}
 {% api-method-form-data-parameters %}
 {% api-method-parameter name="password" type="string" required=true %}
-API Secret asignado por la plataforma para acceso mediante API
+API Secret asignado por la plataforma para acceso mediante API. Se visualiza en la sección de Perfil del usuario.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="username" type="string" required=true %}
